@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/MiniOreo/Content/Cyborg02
+/MiniOreo/Content/Hide_N_Seek
+/MiniOreo/Content/Low_Poly_Sci-Fi_Corridor
+/MiniOreo/Content/Sci-FI_Troopers_Collection
+/MiniOreo/DerivedDataCache
+/MiniOreo/Intermediate
+/MiniOreo/Saved
