@@ -80,3 +80,7 @@ DerivedDataCache/*
 /MiniOreo/Intermediate
 /MiniOreo/Saved
 /MiniOreo/Content/Grid_Materials
+/MiniOreo/Content/ABC_CelShader
+/MiniOreo/Content/Film_and_VHS_Filters
+/MiniOreo/Content/JA_PSXShader
+/MiniOreo/Content/JA_UCS
